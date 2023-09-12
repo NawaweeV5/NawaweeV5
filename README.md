@@ -35,8 +35,6 @@ A Student ICT
 
 <a href="http://www.github.com/NawaweeV5"><img src="https://github-readme-stats.vercel.app/api?username=NawaweeV5&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&show_icons=true" alt="NawaweeV5's GitHub stats" /></a>
 
-<a href="http://www.github.com/NawaweeV5"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NawaweeV5&bg_color=27272a&color=ffffff&line=ec4899&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/NawaweeV5/smartcanteen" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NawaweeV5&repo=smartcanteen&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
